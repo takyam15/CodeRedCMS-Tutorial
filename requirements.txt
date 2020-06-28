@@ -8,6 +8,5 @@ django_sendmail_backend
 #mysqlclient
 
 psycopg2
-factory-boy
 django-environ
 gunicorn
