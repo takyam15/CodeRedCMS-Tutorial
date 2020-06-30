@@ -1,9 +1,4 @@
-import environ
-
 from .base import *  # noqa
-
-env = environ.Env()
-env.read_env('.env')
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
